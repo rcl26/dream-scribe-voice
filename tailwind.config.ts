@@ -52,6 +52,18 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				dream: {
+					DEFAULT: 'hsl(var(--dream))',
+					foreground: 'hsl(var(--dream-foreground))'
+				},
+				mystic: {
+					DEFAULT: 'hsl(var(--mystic))',
+					foreground: 'hsl(var(--mystic-foreground))'
+				},
+				night: {
+					DEFAULT: 'hsl(var(--night))',
+					foreground: 'hsl(var(--night-foreground))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
